@@ -2,7 +2,7 @@ Spur-Gear-Design-Tutorial for beginners
 
 Link: https://youtu.be/B8A_11o7QZ0
 
-Note: I will ask everything about gears like, what is 
+Note: I will ask everything about SPUR gear like, what is 
 I) Pitch Diameter 
 II) Number of teeth 
 III) Hole Diameter 
