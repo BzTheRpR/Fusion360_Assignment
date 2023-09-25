@@ -1,0 +1,17 @@
+Spur-Gear-Design-Tutorial for beginners
+
+Link: https://youtu.be/B8A_11o7QZ0
+
+Note: I will ask everything about gears like, what is 
+I) Pitch Diameter 
+II) Number of teeth 
+III) Hole Diameter 
+IV) Backlash 
+V) Pressure angle 
+VI) Relation between Module-Pitch Diameter
+VII) Root Fillet Radius
+VIII) Gear Thickness
+IX) Relation between gear ratio and speed and torque
+X) Nm to kilogram conversion
+
+So, you need to be prepared for that. You can find everything on YouTube. Discover it for yourself.
