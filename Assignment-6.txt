@@ -8,7 +8,7 @@ II) Number of teeth
 III) Hole Diameter 
 IV) Backlash 
 V) Pressure angle 
-VI) Relation between Module-Pitch Diameter
+VI) Relation between Module, Pitch Diameter and Number of Teeth
 VII) Root Fillet Radius
 VIII) Gear Thickness
 IX) Relation between gear ratio and speed and torque
